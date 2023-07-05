@@ -1,0 +1,24 @@
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore local development environment
+myenv/
+
+# Ignore package distribution files
+dist/
+build/
+*.egg-info/
+
+# Ignore system and IDE files
+.DS_Store
+.idea/
+.vscode/
+
+# Ignore test coverage reports
+htmlcov/
+.coverage
+
+# Ignore virtual environment
+venv/
+
