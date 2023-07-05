@@ -17,7 +17,7 @@ You can install PyElGamal by cloning the GitHub repository and running the insta
 
 1. Clone the GitHub repository:
    ```bash
-   git clone https://github.com/your-username/pyelgamal.git
+   git clone https://github.com/your-username/PyElGamal.git
     ```
 2. Navigate to the PyElGamal directory:
     ```bash
